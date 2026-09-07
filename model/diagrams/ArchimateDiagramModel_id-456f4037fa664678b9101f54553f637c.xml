@@ -832,9 +832,8 @@
           endX="-372"
           endY="-62"/>
       <bendpoints
-          startX="162"
+          startX="138"
           startY="-746"
-          endX="24"
           endY="-62"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
@@ -1300,9 +1299,8 @@
           endX="-372"
           endY="-62"/>
       <bendpoints
-          startX="-144"
+          startX="-168"
           startY="-890"
-          endX="24"
           endY="-62"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
